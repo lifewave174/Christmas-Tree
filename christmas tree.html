@@ -1,0 +1,30 @@
+<html>
+ <script>
+
+//define height and star parameter
+ var height=5;
+ var star=true;
+
+ //add or remove star
+ if(star===true){
+  document.write("&nbsp&nbsp&nbsp&nbsp*</br>");
+ } else {
+  document.write("");
+ };
+
+ //create a loop for the pyramid in the tree
+for (i=0; i<height; i++) {
+  for(r=height-1; r>i; r--) {
+    document.write("&nbsp");
+  }
+   for (k=0; k<=(i*1); k++) { 
+    document.write("x");
+  }
+   document.write("</br>");
+ };
+
+ //create trunk of tree
+document.write("&nbsp&nbsp&nbsp I");
+    
+ </script>
+</html>
