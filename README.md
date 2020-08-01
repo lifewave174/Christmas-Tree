@@ -4,7 +4,7 @@
 
 This is a simple Christmas Tree that will be drawn through ACII art on the browser using vanilla JavaScript. 
 
-In order to run this code we, will be using the console of a browser. 
+In order to run this code we will be using the browser's console. 
 
 <h3>How to open the console in various browsers</h3>
 
