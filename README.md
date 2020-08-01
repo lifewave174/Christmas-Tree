@@ -50,7 +50,7 @@ Mac : Command+Option+J
 
 2. Copy the text between the "<script>...</script>" tags. Please do not copy the script tags themselves! your copied selection should start from "//define height...." and end at "...document.write("I</br>");};". The selection should be just after and before the opening (<script>) and ending (</script>) tags. In order to copy the text, you need to select it with your cursor and then right click and choose 'Copy.'
 
-3. Open the console in the browser of your choice. Preferably in a new tab. 
+3. Open the console in the browser of your choice. Preferably in a new tab. See above on how to open the console. 
 
 4. Right click and paste your copied selection in the console. Do not press enter!
 
