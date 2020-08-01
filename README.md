@@ -44,7 +44,7 @@ Windows and Linux: Ctrl + Shift + I
 
 Mac : Command+Option+J 
 
-<h3>Instructions:</h3>
+<h3>Instructions when using the console:</h3>
 
 1. In order to display a Christmas Tree with ASCII art in your browser, please right-click and open the following link in a 'new tab': https://github.com/lifewave174/Christmas-Tree/blob/master/christmas%20tree.html 
 
@@ -61,3 +61,17 @@ Mac : Command+Option+J
 7. Once you have made your desired height and star changes to the "var height=5" and "var star=true" lines, press enter on your keyboard. Do not press enter before that. If you do end up pressing enter, please refresh your browser or close it and open it again, and then follow the steps from points 1. to 8. 
 
 8. After you press enter, your Christmas tree will show up in the browser! Voila! Good job!
+
+<h3> Instructions to download the code </h3>
+
+1. Go to think link: https://github.com/lifewave174/Christmas-Tree
+
+2. Click on 'Code' and then 'Download Zip.' 
+
+3. Open your Zip folder and click on Christmas-Tree-master.html. This will open the Christmas Tree on your browser. 
+
+4. To define the height and star options, you need to open Christmas-Tree-master on a text editor of your choice. The height is the number in the 'var height' variable. For example, if you want your height to be 7, then change the 'var height=5' in your selection to 'var height=7.'
+
+5. If you want a star in your pyramid, you need to keep the 'var star=true' line. If you do not want a star, then change the 'var star=true' line to 'var star=false.' Make sure that you do not delete the ';' after the lines. All punctuation marks need to remain as they are in order for it to work.
+
+6. Save your file and follow step 3. 
