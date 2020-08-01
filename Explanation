@@ -1,0 +1,9 @@
+- I first had to decide which task I wanted to do, and I played around with the ASCII art and PANGRAM checker in JavaScript as I have some familiarity in the language. 
+- I definitely used Google to my advantage and tried to look at how other people have done similar tasks. 
+- I finally decided to do the Christmas Tree as it 'clicked' for me. I learned how to add a loop within a loop for the tree (I got this idea from a YouTube video). The tree currently has 3 loops for the pyramid structure. 
+- I then created the star and trunk sections by myself. At first, I did not add a loop/condition for these sections. I later realized that it cannot work like this because they both need to be dependent on the height of the tree. For example, if the height is 5, then the number of spaces need to be 4 for both the star and the trunk. If the height is 7, then the spaces need to be 6. This will ensure that both the star and the trunk are exactly in the middle of the tree.  
+- In order to create a dependency for the star and trunk, I added another loop to both of them. Both of them have the same loop as they both require the same number of spaces and are dependent in the same way on the height. 
+- I finally added some comments in order to make my code more understandable. 
+- I tried to convert my code and add functions in there, however I could not really use document.write within a function. I also tried to work a little bit with the DOM, but I eventually decided to keep it simple and complete the task at hand with what I know. 
+- I understand that document.write is not a very modern practice, and will definitely improve my skills so I can use the DOM better in the future. 
+- I finally created my read.me file to support the code.
