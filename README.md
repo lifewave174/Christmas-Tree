@@ -54,7 +54,7 @@ Mac : Command+Option+J
 
 4. Right click on the browser and select 'Inspect (for Chrome),' or follow the instructions above for other browsers. 
 
-5. Click on 'console' from the top menu. 
+5. Click on 'console' from the top menu (For Chrome). 
 
 6. Right click and paste your copied selection. Do not press enter!
 
