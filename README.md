@@ -1,6 +1,6 @@
 # Christmas-Tree
 
-Project decription: 
+<h3>Project decription:</h3>
 
 This is a simple Christmas Tree that will be drawn through ACII art on the browser using vanilla JavaScript. 
 
