@@ -1,13 +1,21 @@
-<html>
- <script>
 
+<!DOCTYPE html>
+<html>
+ <body>
+  <script>
+ 
 //define height and star parameter
  var height=5;
  var star=true;
 
  //add or remove star
- if(star===true){
-  document.write("&nbsp&nbsp&nbsp&nbsp*</br>");
+if(star===true){
+  for (u=0;u<1;u++) {
+  for (r=0;r<height-1;r++) {
+    document.write("&nbsp");
+  }
+  document.write("*</br>");
+}
  } else {
   document.write("");
  };
@@ -24,7 +32,13 @@ for (i=0; i<height; i++) {
  };
 
  //create trunk of tree
-document.write("&nbsp&nbsp&nbsp I");
-    
- </script>
+for (u=0;u<1;u++) {
+  for (r=0;r<height-1;r++) {
+    document.write("&nbsp");
+  }
+  document.write("I</br>");
+};
+   
+  </script>
+ </body>
 </html>
