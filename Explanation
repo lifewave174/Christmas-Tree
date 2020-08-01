@@ -6,4 +6,4 @@
 - I finally added some comments in order to make my code more understandable. 
 - I tried to convert my code and add functions in there, however I could not really use document.write within a function. I also tried to work a little bit with the DOM, but I eventually decided to keep it simple and complete the task at hand with what I know. 
 - I understand that document.write is not a very modern practice, and will definitely improve my skills so I can use the DOM better in the future. 
-- I finally created my read.me file to support the code.
+- I finally created my read.md file to support the code.
