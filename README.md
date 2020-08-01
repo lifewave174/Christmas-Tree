@@ -62,9 +62,9 @@ Mac : Command+Option+J
 
 8. After you press enter, your Christmas tree will show up in the browser! Voila! Good job!
 
-<h3> Instructions to download the code and edit using Text Editor of your choice: </h3>
+<h3> Instructions to download the code and edit using a Text Editor of your choice: </h3>
 
-1. Go to think link: https://github.com/lifewave174/Christmas-Tree
+1. Click on this link: https://github.com/lifewave174/Christmas-Tree
 
 2. Click on 'Code' and then 'Download Zip.' 
 
