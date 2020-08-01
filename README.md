@@ -8,7 +8,7 @@ In order to run this code we, will be using the console of a browser.
 
 <h3>How to open the console in various browsers</h3>
 
-<h2>Chrome</h2>
+<h4>Chrome</h4>
 
 Opening the “Console” panel of Chrome’s DevTools:
 
@@ -16,7 +16,7 @@ Windows and Linux: Ctrl + Shift + J
 
 Mac OS: Cmd + Opt + J
 
-<h2>Firefox</h2>
+<h4>Firefox</h4>
 
 Opening the “Console” panel in Firefox’s Developer Tools:
 
@@ -24,13 +24,13 @@ Windows: Ctrl + Shift + K
 
 Mac OS: Cmd + Opt + K
 
-<h2>Internet Explorer</h2>
+<h4>Internet Explorer</h4>
 
 Opening the “Console” panel in Internet Explorer’s F12 Developer Tools:
 
 F12, then click on the “Console” tab
 
-<h2>Safari</h2>
+<h4>Safari</h4>
 
 Note: In order to view the console in Safari, you have to enable the “Show Develop menu in menu bar” setting in the “Advanced” pane of Safari’s preferences.
 
@@ -38,13 +38,13 @@ Opening the “Console” panel in Safari’s Web Inspector:
 
 Cmd + Opt + C
 
-<h2>Opera</h2>
+<h4>Opera</h4>
 
 Windows and Linux: Ctrl + Shift + I
 
 Mac : Command+Option+J 
 
-<h3>Instructions:</h3Y
+<h3>Instructions:</h3>
 
 1. In order to display a Christmas Tree with ASCII art in your browser, please right-click and open the following link in a 'new tab': https://github.com/lifewave174/Christmas-Tree/blob/master/christmas%20tree.html 
 
