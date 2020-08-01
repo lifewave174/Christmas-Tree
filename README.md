@@ -1,8 +1,14 @@
 # Christmas-Tree
 
-1. In order to draw a Christmas Tree with ASCII art in your browser, please right-click and open the following link on a 'new tab': https://github.com/lifewave174/Christmas-Tree/blob/master/christmas%20tree.html 
+Project decription: 
 
-2. Copy the text between the "<script>...</script>" tags. Please do not copy the script tags! your copied selection should start from "//define height...." and end at "...document.write("I</br>");};". The selection should be just after and before the opening (<script>) and ending (</script>) tags. In order to copy the text, you need to select it with your cursor and then right click and choose 'Copy.'
+This is a simple Christmas Tree that will be drawn through ACII art on the browser using vanilla JavaScript. 
+
+Instructions:
+
+1. In order to display a Christmas Tree with ASCII art in your browser, please right-click and open the following link in a 'new tab': https://github.com/lifewave174/Christmas-Tree/blob/master/christmas%20tree.html 
+
+2. Copy the text between the "<script>...</script>" tags. Please do not copy the script tags themselves! your copied selection should start from "//define height...." and end at "...document.write("I</br>");};". The selection should be just after and before the opening (<script>) and ending (</script>) tags. In order to copy the text, you need to select it with your cursor and then right click and choose 'Copy.'
 
 3. Open Google Chrome or a new tab in the browser if it is already open. 
 
