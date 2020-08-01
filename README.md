@@ -2,7 +2,7 @@
 
 <h3>Project decription:</h3>
 
-This is a simple Christmas Tree that will be drawn through ACII art on the browser using vanilla JavaScript. 
+This is a simple Christmas Tree that will be drawn through ACII art on the browser. Vanilla JavaScript has been used to create the code. 
 
 In order to run this code we will be using the browser's console. 
 
