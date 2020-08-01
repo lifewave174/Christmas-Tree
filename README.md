@@ -58,6 +58,6 @@ Mac : Command+Option+J
 
 6. If you want a star in your pyramid, you need to keep the 'var star=true' line. If you do not want a star, then change the 'var star=true' line to 'var star=false.' Make sure that you do not delete the ';' after the lines. All punctuation marks need to remain as they are in order for it to work.
 
-7. Once you have made your desired height and star changes to the "var height=5" and "var star=true" lines, press enter on your keyboard. Do not press enter before that. If you do end up pressing enter, please refresh your browser or close it and open it again, and then follow the steps from points 6. to 9. 
+7. Once you have made your desired height and star changes to the "var height=5" and "var star=true" lines, press enter on your keyboard. Do not press enter before that. If you do end up pressing enter, please refresh your browser or close it and open it again, and then follow the steps from points 1. to 8. 
 
 8. After you press enter, your Christmas tree will show up in the browser! Voila! Good job!
