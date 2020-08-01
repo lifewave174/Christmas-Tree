@@ -54,7 +54,7 @@ Mac : Command+Option+J
 
 4. Right click and paste your copied selection in the console. Do not press enter!
 
-5. Before you press enter, define the height you want for your christmas tree. The height is the number in the 'var height' variable. For example, if you want your height to be 7, then change the 'var height=5' in your selection to 'var height=7'
+5. Before you press enter, define the height you want for your christmas tree. The height is the number in the 'var height' variable. For example, if you want your height to be 7, then change the 'var height=5' in your selection to 'var height=7.'
 
 6. If you want a star in your pyramid, you need to keep the 'var star=true' line. If you do not want a star, then change the 'var star=true' line to 'var star=false.' Make sure that you do not delete the ';' after the lines. All punctuation marks need to remain as they are in order for it to work.
 
