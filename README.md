@@ -4,15 +4,55 @@
 
 This is a simple Christmas Tree that will be drawn through ACII art on the browser using vanilla JavaScript. 
 
-Instructions:
+In order to run this code we, will be using the console of a browser. 
+
+<h3>How to open the console in various browsers</h3>
+
+<h2>Chrome</h2>
+
+Opening the “Console” panel of Chrome’s DevTools:
+
+Windows and Linux: Ctrl + Shift + J
+
+Mac OS: Cmd + Opt + J
+
+<h2>Firefox</h2>
+
+Opening the “Console” panel in Firefox’s Developer Tools:
+
+Windows: Ctrl + Shift + K
+
+Mac OS: Cmd + Opt + K
+
+<h2>Internet Explorer</h2>
+
+Opening the “Console” panel in Internet Explorer’s F12 Developer Tools:
+
+F12, then click on the “Console” tab
+
+<h2>Safari</h2>
+
+Note: In order to view the console in Safari, you have to enable the “Show Develop menu in menu bar” setting in the “Advanced” pane of Safari’s preferences.
+
+Opening the “Console” panel in Safari’s Web Inspector:
+
+Cmd + Opt + C
+
+<h2>Opera</h2>
+
+Windows and Linux: Ctrl + Shift + I
+
+Mac : Command+Option+J 
+
+<h3>Instructions:</h3Y
 
 1. In order to display a Christmas Tree with ASCII art in your browser, please right-click and open the following link in a 'new tab': https://github.com/lifewave174/Christmas-Tree/blob/master/christmas%20tree.html 
 
 2. Copy the text between the "<script>...</script>" tags. Please do not copy the script tags themselves! your copied selection should start from "//define height...." and end at "...document.write("I</br>");};". The selection should be just after and before the opening (<script>) and ending (</script>) tags. In order to copy the text, you need to select it with your cursor and then right click and choose 'Copy.'
 
-3. Open Google Chrome or a new tab in the browser if it is already open. 
+3. Open Google Chrome or any other browser of your choice. Preferably a new tab or window where you can run your code. 
 
-4. Right click on the browser and select 'Inspect.'
+4. Right click on the browser and select 'Inspect (for Chrome),' or follow the instructions above for other browsers. 
 
 5. Click on 'console' from the top menu. 
 
